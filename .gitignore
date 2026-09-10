@@ -1,0 +1,13 @@
+CMakeFiles
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+build.ninja
+.ninja_deps
+.ninja_log
+compile_commands.json
+.cache
+install_manifest.txt
+libhanviet.pc
+hanviet_test
+*.so
