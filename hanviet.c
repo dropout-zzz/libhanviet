@@ -494,6 +494,7 @@ hanviet_table_load(const char* filename)
 	}
     }
 
+    memset(last_key, 0, sizeof(last_key));
     rewind(file);
     keytable = malloc(nkeys * sizeof(keytable[0]));
     memset(keytable, 0, nkeys * sizeof(keytable[0]));
