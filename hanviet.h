@@ -19,6 +19,8 @@
 #ifndef libhanviet_hanviet_h
 #define libhanviet_hanviet_h
 
+#include <stddef.h>
+
 #ifdef __cplusplus
 extern "C" {
 #endif
