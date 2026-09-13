@@ -16,6 +16,7 @@ bằng:憑:
 bị:被:
 bộ phận:部分:
 bộ thủ:部首:
+chi tiết:枝節:
 chinh phục:征服:
 chuyển đổi:轉𣋇:
 chất lượng:質量:
@@ -26,10 +27,12 @@ có:𣎏:
 có mặt:𣎏𩈘:
 cùng:共:
 cơ bản:基本:
+cảnh:景:
 cấu thành:構成:
 cộng đồng:共同:
 của:𧵑:
 cực:極:
+cực kì:極其:
 danh sách:名冊:
 danh từ:名詞:
 dùng:用:
@@ -37,6 +40,7 @@ dưới:𤲂:
 dịch:譯:
 ghi chú:記註:
 giao diện:交面:
+giảm:減:
 giờ:𣇞:
 giữa:𡨌:
 gửi:𲞬:
@@ -74,7 +78,9 @@ ngày:𣈗:
 ngôn ngữ:言語:
 người:𠊛:
 ngữ pháp:語法:
+nhiều:𡗉:
 như:如:
+nhưng:仍:
 nhấn:扨:
 nhất:一:
 nhập:入:
@@ -82,6 +88,7 @@ nhật ký:日記:
 nhỏ:𡮈:
 năm:𢆥:
 nội dung:內容:
+phiên bản:翻版:
 phát:發:
 phân cách:分隔:
 phân loại:分類:
@@ -91,6 +98,7 @@ phổ biến:普遍:
 phụ đề:附題:
 quy tắc:規則:
 quản lý:管理:
+ra:𫥨:
 sau:𢖖:
 sáng:𱢞:
 số:數:
@@ -102,6 +110,8 @@ thêm:添:
 thích:適:
 thông báo:通報:
 thông tin:通信:
+thưởng thức:賞識:
+thấy:𧡊:
 thủ công:手工:
 thứ ba:次𠀧:
 thứ bảy:次𦉱:
@@ -109,6 +119,7 @@ thứ năm:次𠄼:
 thứ sáu:次𦒹:
 thứ tư:次𦊛:
 thực tế:實際:
+tiêu chuẩn:標準:
 tiếng Anh:㗂英:
 tiếng Nhật:㗂日:
 tiếng Trung:㗂中:
@@ -140,6 +151,7 @@ tự động:自動:
 vi phạm:違犯:
 và:和:
 vào:𠓨:
+vì:爲:
 văn bản:文本:
 vẽ:𪽗:
 vị trí:位置:
@@ -148,6 +160,7 @@ xuất bản:出版:
 âm:音:
 âm lượng:音量:
 âm nhạc:音樂:
+âm thanh:音聲:
 đang:當:
 điện thoại:電話:
 đã:㐌:
@@ -155,12 +168,15 @@ xuất bản:出版:
 đăng nhập:登入:
 đăng xuất:登出:
 được:得:
+đầu tư:投資:
 đến:𦥃:
 địa điểm:地點:
+định dạng:定樣:
 đọc:讀:
 đỏ:𧹻:
 đồng bộ:同步:
 động từ:動詞:
 ảnh:影:
 ẩn:隱:
+ở:𣄒:
 ứng dụng:應用:
