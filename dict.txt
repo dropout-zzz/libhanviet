@@ -1,2 +1,92 @@
 # sort using libhanviet/sort.py
 
+Hán tự:漢字:
+Hán-Việt:漢越:
+Nhật:日:
+Việt:越:
+báo:報:
+báo cáo:報告:
+bạn:伴:
+bản:版:
+bảng:榜:
+bằng:憑:
+bộ phận:部分:
+bộ thủ:部首:
+chinh phục:征服:
+chuyển đổi:轉𣋇:
+chữ cái:𡨸𡛔:
+các:各:
+cách:格:
+có:𣎏:
+có mặt:𣎏𩈘:
+cùng:共:
+cơ bản:基本:
+cấu thành:構成:
+cộng đồng:共同:
+của:𧵑:
+danh sách:名冊:
+dùng:用:
+dưới:𤲂:
+dịch:譯:
+ghi chú:記註:
+giữa:𡨌:
+gửi:𲞬:
+hoặc:或:
+hình ảnh:形影:
+hướng dẫn:向引:
+họ tên:𬇋𠸜:
+hủy:毀:
+không:空:
+kết quả:結果:
+kết thúc:結束:
+liên quan:連關:
+là:𱺵:
+lưu ý:留意:
+lại:又:
+lỗi:纇:
+một mình:𠬠𨉟:
+một số:𠬠數:
+nghe:𦖑:
+nghĩa:義:
+ngữ pháp:語法:
+như:如:
+nhấn:扨:
+nhập:入:
+nhỏ:𡮈:
+nội dung:內容:
+phân cách:分隔:
+phân loại:分類:
+phía:𪰂:
+số:數:
+thêm:添:
+thực tế:實際:
+tiếng Nhật:㗂日:
+tiếng Việt:㗂越:
+tra:查:
+trong:𥪝:
+trên:𨕭:
+trước:𠓀:
+tên:𠸜:
+tìm thấy:尋𧡊:
+tương đồng:相同:
+tương ứng:相應:
+tạo:造:
+tải:載:
+tải xuống:載𬺗:
+từ:詞:
+từ điển:辭典:
+và:和:
+văn bản:文本:
+vẽ:𪽗:
+vị trí:位置:
+xem:䀡:
+âm:音:
+đang:當:
+điện thoại:電話:
+đã:㐌:
+đăng nhập:登入:
+đọc:讀:
+đồng bộ:同步:
+động từ:動詞:
+ảnh:影:
+ứng dụng:應用:
