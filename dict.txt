@@ -1,19 +1,24 @@
 # sort using libhanviet/sort.py
 
+Hàn Quốc:韓國:
 Hán tự:漢字:
 Hán-Việt:漢越:
 Nhật:日:
+Nhật Bản:日本:
 Việt:越:
 báo:報:
 báo cáo:報告:
+bình luận:評論:
 bạn:伴:
 bản:版:
 bảng:榜:
 bằng:憑:
+bị:被:
 bộ phận:部分:
 bộ thủ:部首:
 chinh phục:征服:
 chuyển đổi:轉𣋇:
+chất lượng:質量:
 chữ cái:𡨸𡛔:
 các:各:
 cách:格:
@@ -24,69 +29,138 @@ cơ bản:基本:
 cấu thành:構成:
 cộng đồng:共同:
 của:𧵑:
+cực:極:
 danh sách:名冊:
+danh từ:名詞:
 dùng:用:
 dưới:𤲂:
 dịch:譯:
 ghi chú:記註:
+giao diện:交面:
+giờ:𣇞:
 giữa:𡨌:
 gửi:𲞬:
+hiển thị:顯示:
+hiện:現:
 hoặc:或:
 hình ảnh:形影:
+hôm nay:𣋚𫢩:
+hôm qua:𣋚過:
 hướng dẫn:向引:
 họ tên:𬇋𠸜:
 hủy:毀:
+khóa học:課學:
 không:空:
 kết quả:結果:
 kết thúc:結束:
 liên quan:連關:
+loại:類:
 là:𱺵:
+lên:𨖲:
+lưu:留:
 lưu ý:留意:
 lại:又:
 lỗi:纇:
+muốn:𳈘:
+màn hình:幔影:
+màu:𬜝:
+mật mã:密碼:
 một mình:𠬠𨉟:
 một số:𠬠數:
+mới:𬔫:
 nghe:𦖑:
 nghĩa:義:
+ngày:𣈗:
+ngôn ngữ:言語:
+người:𠊛:
 ngữ pháp:語法:
 như:如:
 nhấn:扨:
+nhất:一:
 nhập:入:
+nhật ký:日記:
 nhỏ:𡮈:
+năm:𢆥:
 nội dung:內容:
+phát:發:
 phân cách:分隔:
 phân loại:分類:
 phía:𪰂:
+phản hồi:返回:
+phổ biến:普遍:
+phụ đề:附題:
+quy tắc:規則:
+quản lý:管理:
+sau:𢖖:
+sáng:𱢞:
 số:數:
+sử dụng:使用:
+tham gia:參加:
+thiết bị:設備:
+tháng:𪱚:
 thêm:添:
+thích:適:
+thông báo:通報:
+thông tin:通信:
+thủ công:手工:
+thứ ba:次𠀧:
+thứ bảy:次𦉱:
+thứ năm:次𠄼:
+thứ sáu:次𦒹:
+thứ tư:次𦊛:
 thực tế:實際:
+tiếng Anh:㗂英:
 tiếng Nhật:㗂日:
+tiếng Trung:㗂中:
 tiếng Việt:㗂越:
+tiếp tục:接續:
+toàn:全:
+toàn bộ:全部:
 tra:查:
 trong:𥪝:
 trên:𨕭:
 trước:𠓀:
+trắng:𤽸:
+trực tiếp:直接:
+tuần:旬:
 tên:𠸜:
 tìm thấy:尋𧡊:
+tôi:𪝬:
 tương đồng:相同:
 tương ứng:相應:
 tạo:造:
 tải:載:
+tải lên:載𨖲:
 tải xuống:載𬺗:
+tối:𣋁:
 từ:詞:
+từ:自:
 từ điển:辭典:
+tự động:自動:
+vi phạm:違犯:
 và:和:
+vào:𠓨:
 văn bản:文本:
 vẽ:𪽗:
 vị trí:位置:
 xem:䀡:
+xuất bản:出版:
 âm:音:
+âm lượng:音量:
+âm nhạc:音樂:
 đang:當:
 điện thoại:電話:
 đã:㐌:
+đăng ký:登記:
 đăng nhập:登入:
+đăng xuất:登出:
+được:得:
+đến:𦥃:
+địa điểm:地點:
 đọc:讀:
+đỏ:𧹻:
 đồng bộ:同步:
 động từ:動詞:
 ảnh:影:
+ẩn:隱:
 ứng dụng:應用:
