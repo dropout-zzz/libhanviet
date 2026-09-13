@@ -6,6 +6,7 @@ Hán-Việt:漢越:
 Nhật:日:
 Nhật Bản:日本:
 Việt:越:
+an toàn:安全:
 báo:報:
 báo cáo:報告:
 bình luận:評論:
@@ -25,8 +26,10 @@ các:各:
 cách:格:
 có:𣎏:
 có mặt:𣎏𩈘:
+công cụ:工具:
 cùng:共:
 cơ bản:基本:
+cảm ơn:感恩:
 cảnh:景:
 cấu thành:構成:
 cộng đồng:共同:
@@ -41,11 +44,13 @@ dịch:譯:
 ghi chú:記註:
 giao diện:交面:
 giảm:減:
+giới thiệu:介紹:
 giờ:𣇞:
 giữa:𡨌:
 gửi:𲞬:
 hiển thị:顯示:
 hiện:現:
+hiện tại:現在:
 hoặc:或:
 hình ảnh:形影:
 hôm nay:𣋚𫢩:
@@ -53,6 +58,7 @@ hôm qua:𣋚過:
 hướng dẫn:向引:
 họ tên:𬇋𠸜:
 hủy:毀:
+khu vực:區域:
 khóa học:課學:
 không:空:
 kết quả:結果:
@@ -64,6 +70,7 @@ lên:𨖲:
 lưu:留:
 lưu ý:留意:
 lại:又:
+lịch:曆:
 lỗi:纇:
 muốn:𳈘:
 màn hình:幔影:
@@ -96,10 +103,13 @@ phía:𪰂:
 phản hồi:返回:
 phổ biến:普遍:
 phụ đề:附題:
+quan tâm:關心:
 quy tắc:規則:
 quản lý:管理:
+quảng cáo:廣告:
 ra:𫥨:
 sau:𢖖:
+sách:冊:
 sáng:𱢞:
 số:數:
 sử dụng:使用:
@@ -112,13 +122,17 @@ thông báo:通報:
 thông tin:通信:
 thưởng thức:賞識:
 thấy:𧡊:
+thế giới:世界:
+thể thao:體操:
 thủ công:手工:
 thứ ba:次𠀧:
 thứ bảy:次𦉱:
+thứ hai:次𠄩:
 thứ năm:次𠄼:
 thứ sáu:次𦒹:
 thứ tư:次𦊛:
 thực tế:實際:
+tin tức:信息:
 tiêu chuẩn:標準:
 tiếng Anh:㗂英:
 tiếng Nhật:㗂日:
@@ -157,11 +171,13 @@ vẽ:𪽗:
 vị trí:位置:
 xem:䀡:
 xuất bản:出版:
+xác nhận:確認:
 âm:音:
 âm lượng:音量:
 âm nhạc:音樂:
 âm thanh:音聲:
 đang:當:
+điều khoản:條款:
 điện thoại:電話:
 đã:㐌:
 đăng ký:登記:
@@ -170,6 +186,7 @@ xuất bản:出版:
 được:得:
 đầu tư:投資:
 đến:𦥃:
+địa phương:地方:
 địa điểm:地點:
 định dạng:定樣:
 đọc:讀:
