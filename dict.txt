@@ -27,6 +27,8 @@ chuyển đổi:轉𣋇:
 chúng tôi:衆𪝬:
 chất lượng:質量:
 chỉ:只:
+chữ Hán:𡨸漢:
+chữ Nôm:𡨸喃:
 chữ cái:𡨸𡛔:
 các:各:
 cách:格:
@@ -82,11 +84,13 @@ lại:又:
 lịch:曆:
 lịch sử:歷史:
 lỗi:纇:
+lớn:𡘯:
 muốn:𳈘:
 màn hình:幔影:
 màu:𬜝:
 mạng:𦀴:
 mật mã:密碼:
+một:𠬠:
 một mình:𠬠𨉟:
 một số:𠬠數:
 mới:𬔫:
@@ -110,7 +114,9 @@ năm:𢆥:
 nước:𡈉:
 nội dung:內容:
 phiên bản:翻版:
+phiên âm:翻音:
 phát:發:
+phát âm:發音:
 phân cách:分隔:
 phân loại:分類:
 phía:𪰂:
@@ -132,6 +138,7 @@ sáng:𱢞:
 số:數:
 sử dụng:使用:
 tham gia:參加:
+tham khảo:參考:
 thiết bị:設備:
 thành công:成功:
 tháng:𪱚:
@@ -140,6 +147,7 @@ thích:適:
 thông báo:通報:
 thông tin:通信:
 thưởng thức:賞識:
+thảo luận:討論:
 thấy:𧡊:
 thế giới:世界:
 thể loại:體類:
@@ -157,6 +165,7 @@ tin tức:信息:
 tiêu chuẩn:標準:
 tiếng Anh:㗂英:
 tiếng Nhật:㗂日:
+tiếng Pháp:㗂法:
 tiếng Trung:㗂中:
 tiếng Việt:㗂越:
 tiếp tục:接續:
@@ -173,6 +182,7 @@ tuần:旬:
 tên:𠸜:
 tìm thấy:尋𧡊:
 tôi:𪝬:
+tương tự:相似:
 tương đồng:相同:
 tương ứng:相應:
 tại:在:
@@ -184,6 +194,7 @@ tập:集:
 tối:𣋁:
 từ:詞:
 từ:自:
+từ nguyên:辭源:
 từ điển:辭典:
 tự động:自動:
 vi phạm:違犯:
@@ -214,6 +225,7 @@ xác nhận:確認:
 đăng xuất:登出:
 đơn vị:單位:
 được:得:
+đầu:頭:
 đầu tư:投資:
 đến:𦥃:
 địa phương:地方:
@@ -222,6 +234,7 @@ xác nhận:確認:
 đọc:讀:
 đỏ:𧹻:
 đồng bộ:同步:
+đồng nghĩa:同義:
 động từ:動詞:
 ảnh:影:
 ẩn:隱:
