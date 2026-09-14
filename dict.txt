@@ -1,11 +1,15 @@
 # sort using libhanviet/sort.py
 
+Anh:英:
 Hoàng Sa:黃沙:
+Hàn:韓:
 Hàn Quốc:韓國:
 Hán tự:漢字:
 Hán-Việt:漢越:
 Nhật:日:
 Nhật Bản:日本:
+Pháp:法:
+Trung:中:
 Trường Sa:長沙:
 Việt:越:
 Việt Nam:越南:
@@ -116,6 +120,7 @@ nội dung:內容:
 phiên bản:翻版:
 phiên âm:翻音:
 phát:發:
+phát hiện:發現:
 phát âm:發音:
 phân cách:分隔:
 phân loại:分類:
