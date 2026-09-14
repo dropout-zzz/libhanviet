@@ -1,11 +1,14 @@
 # sort using libhanviet/sort.py
 
+Hoàng Sa:黃沙:
 Hàn Quốc:韓國:
 Hán tự:漢字:
 Hán-Việt:漢越:
 Nhật:日:
 Nhật Bản:日本:
+Trường Sa:長沙:
 Việt:越:
+Việt Nam:越南:
 an toàn:安全:
 báo:報:
 báo cáo:報告:
@@ -19,8 +22,11 @@ bộ phận:部分:
 bộ thủ:部首:
 chi tiết:枝節:
 chinh phục:征服:
+chuyển hướng:轉向:
 chuyển đổi:轉𣋇:
+chúng tôi:衆𪝬:
 chất lượng:質量:
+chỉ:只:
 chữ cái:𡨸𡛔:
 các:各:
 cách:格:
@@ -41,16 +47,19 @@ danh từ:名詞:
 dùng:用:
 dưới:𤲂:
 dịch:譯:
+dịch vụ:役務:
 ghi chú:記註:
 giao diện:交面:
 giảm:減:
 giới thiệu:介紹:
 giờ:𣇞:
 giữa:𡨌:
+gập nhật:及日:
 gửi:𲞬:
 hiển thị:顯示:
 hiện:現:
 hiện tại:現在:
+hoạt động:活動:
 hoặc:或:
 hình ảnh:形影:
 hôm nay:𣋚𫢩:
@@ -75,6 +84,7 @@ lỗi:纇:
 muốn:𳈘:
 màn hình:幔影:
 màu:𬜝:
+mạng:𦀴:
 mật mã:密碼:
 một mình:𠬠𨉟:
 một số:𠬠數:
@@ -84,6 +94,8 @@ nghĩa:義:
 ngày:𣈗:
 ngôn ngữ:言語:
 người:𠊛:
+người dùng:𠊛用:
+ngẫu nhiên:偶然:
 ngữ pháp:語法:
 nhiều:𡗉:
 như:如:
@@ -94,6 +106,7 @@ nhập:入:
 nhật ký:日記:
 nhỏ:𡮈:
 năm:𢆥:
+nước:𡈉:
 nội dung:內容:
 phiên bản:翻版:
 phát:發:
@@ -107,6 +120,10 @@ quan tâm:關心:
 quy tắc:規則:
 quản lý:管理:
 quảng cáo:廣告:
+quần đảo Hoàng Sa:羣島黃沙:
+quần đảo Trường Sa:羣島長沙:
+quốc gia:國家:
+quốc kỳ:國旗:
 ra:𫥨:
 sau:𢖖:
 sách:冊:
@@ -115,6 +132,7 @@ số:數:
 sử dụng:使用:
 tham gia:參加:
 thiết bị:設備:
+thành công:成功:
 tháng:𪱚:
 thêm:添:
 thích:適:
@@ -123,7 +141,9 @@ thông tin:通信:
 thưởng thức:賞識:
 thấy:𧡊:
 thế giới:世界:
+thể loại:體類:
 thể thao:體操:
+thời lượng:時量:
 thủ công:手工:
 thứ ba:次𠀧:
 thứ bảy:次𦉱:
@@ -139,6 +159,7 @@ tiếng Nhật:㗂日:
 tiếng Trung:㗂中:
 tiếng Việt:㗂越:
 tiếp tục:接續:
+tiền tệ:錢幣:
 toàn:全:
 toàn bộ:全部:
 tra:查:
@@ -153,16 +174,19 @@ tìm thấy:尋𧡊:
 tôi:𪝬:
 tương đồng:相同:
 tương ứng:相應:
+tại:在:
 tạo:造:
 tải:載:
 tải lên:載𨖲:
 tải xuống:載𬺗:
+tập:集:
 tối:𣋁:
 từ:詞:
 từ:自:
 từ điển:辭典:
 tự động:自動:
 vi phạm:違犯:
+vui lòng:𢝙𢚸:
 và:和:
 vào:𠓨:
 vì:爲:
@@ -170,19 +194,24 @@ văn bản:文本:
 vẽ:𪽗:
 vị trí:位置:
 xem:䀡:
+xin:吀:
+xin lỗi:吀纇:
 xuất bản:出版:
+xác minh:確明:
 xác nhận:確認:
 âm:音:
 âm lượng:音量:
 âm nhạc:音樂:
 âm thanh:音聲:
 đang:當:
+điền:填:
 điều khoản:條款:
 điện thoại:電話:
 đã:㐌:
 đăng ký:登記:
 đăng nhập:登入:
 đăng xuất:登出:
+đơn vị:單位:
 được:得:
 đầu tư:投資:
 đến:𦥃:
