@@ -16,6 +16,7 @@ Việt Nam:越南:
 an toàn:安全:
 báo:報:
 báo cáo:報告:
+bây giờ:𣊾𣇞:
 bình luận:評論:
 bạn:伴:
 bản:版:
@@ -126,6 +127,7 @@ phân cách:分隔:
 phân loại:分類:
 phía:𪰂:
 phản hồi:返回:
+phần mềm:分𥎁:
 phổ biến:普遍:
 phụ đề:附題:
 quan tâm:關心:
