@@ -11,3 +11,8 @@ install_manifest.txt
 libhanviet.pc
 hanviet_test
 *.so
+src
+pkg
+*.log
+*.log.*
+*-*-*-*.pkg.tar*
